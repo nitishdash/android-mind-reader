@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mind Reader!</string>
+    <string name="welcome1">Welcome to the mind reading app! Grab your popcorn, get cozy and be ready to get your minds boggled!</string>
+    <string name="choice1"></string>
+    <string name="choice2"></string>
+    <string name="letsgo">Lets Start!</string>
+    <string name="beforewe">"\n\nWait! Before running the game, I want you to follow the given steps:\n\n1. Select a number between 1 &amp; 50.\n\n2. Add all the digits and subtract from the selected number.\n\ne.g.-\n\na)47(selected number)\n\nb)4+7(addition of the digits)=11\n\nc)47-11(Subtraction from selected number).\n\n\n"
+    </string>
+    <string name="first">Enter your first name:</string>
+    <string name="last">Enter your last name:</string>
+    <string name="age">Enter your age:</string>
+    <string name="stage2">Before we continue any further, please enter the following details.</string>
+    <string name="check">Check which of the following symbols matches your answer and remember it...</string>
+    <string name="check2">Once you have seen the symbol, click ready and be ready to see the magic!</string>
+    <string name="done">Successfully read your mind! This was your symbol, wasnt it?</string>
+    <string name="about1">Awesome! Thanks for using my app! Hope you enjoyed using it. Since its managed by me alone, it could take some time before new features come by.</string>
+    <string name="about2">Have anything to say? Feel free to contact me anytime! (Except the time when I am hanging out with my gf or when I am trying to hack into Area 51 servers! :P) Just kidding.</string>
+    <string name="about3">Oh man! I totally forgot to introduce myself! BTW, I am Dash, Nitish Dash. Drop me a mail at nitishdash95@gmail.com. ☺</string>
+    <string name="appidea">Awesome app idea by - Anirban Paul</string>
+
+</resources>
